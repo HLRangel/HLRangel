@@ -1,4 +1,6 @@
-## Hi there 👋
+## hi
+
+I make things sometimes, though I am reluctant to post them.
 
 <!--
 **HLRangel/HLRangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
