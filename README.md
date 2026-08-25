@@ -4,11 +4,14 @@ I make things sometimes. While most of the projects I work on are private, there
 
 # Languages and tools
 
-Languages & tools
 C/C++       ████████░░
+
 Rust        ██████░░░░
+
 Javascript  █████░░░░░
+
 Python      ███░░░░░░░
+
 Dart        ██░░░░░░░░
 
 # Currently learning
