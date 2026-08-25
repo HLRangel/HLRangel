@@ -4,15 +4,15 @@ I make things sometimes. While most of the projects I work on are private, there
 
 # Languages and tools
 
-C/C++       ████████░░
+**C/C++**      ████████░░
 
-Rust        ██████░░░░
+**Rust**       ██████░░░░
 
-Javascript  █████░░░░░
+**Javascript** █████░░░░░
 
-Python      ███░░░░░░░
+**Python**     ███░░░░░░░
 
-Dart        ██░░░░░░░░
+**Dart**       ██░░░░░░░░
 
 # Currently learning
 - Basic pre-training pipeline for Large Language Models
