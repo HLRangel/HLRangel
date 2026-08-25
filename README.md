@@ -4,17 +4,14 @@ I make things sometimes. While most of the projects I work on are private, there
 
 # Languages and tools
 
-**C/C++**      ████████░░
-
-**Rust**       ██████░░░░
-
-**Javascript** █████░░░░░
-
-**Python**     ███░░░░░░░
-
-**Dart**       ██░░░░░░░░
+- **C/C++** - Advanced-to-intermediate
+- **Rust** - Firmly intermediate
+- **Javascript** - Firmly intermediate
+- **Python** - Wrote a couple projects
+- **Dart** - Familiarity in educational settings only
 
 # Currently learning
+
 - Basic pre-training pipeline for Large Language Models
 - NLP for Brazilian Portuguese
 - Systems programming
