@@ -1,18 +1,18 @@
-## hi
+## Hi, I'm HLRangel
 
-I make things sometimes, though I am reluctant to post them.
+I make things sometimes. While most of the projects I work on are private, there are a couple things you may be interested in. Mainly [ploogly](https://github.com/HLRangel/ploogly), a Static Site Generator written in Rust, and [DengueInfoRP](https://github.com/HLRangel/dengue), a question-and-answer dataset about dengue that I authored along with other people for a college project.
 
-<!--
-**HLRangel/HLRangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Languages and tools
 
-Here are some ideas to get you started:
+Languages & tools
+C/C++       ████████░░
+Rust        ██████░░░░
+Javascript  █████░░░░░
+Python      ███░░░░░░░
+Dart        ██░░░░░░░░
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Currently learning
+- Basic pre-training pipeline for Large Language Models
+- NLP for Brazilian Portuguese
+- Systems programming
+- Philosophy
